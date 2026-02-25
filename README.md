@@ -129,3 +129,6 @@ They demonstrate:
 - core utilities + framework exceptions
 - API/DB/Kafka utility usage
 - driver factory behavior (Playwright + fallback)
+
+
+-json utility
